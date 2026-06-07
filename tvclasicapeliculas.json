@@ -1,42 +1,98 @@
 [
     {
-        "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
-        "time": "19:00",
-        "category": "UFC",
+        "title": "Amistoso: Kosovo vs Andorra",
+        "time": "13:00",
+        "category": "F\u00fatbol",
         "status": "en vivo",
-        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=paramount1",
-        "language": "Espa\u00f1ol"
-    },
-    {
-        "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
-        "time": "19:00",
-        "category": "UFC",
-        "status": "en vivo",
-        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=paramount2",
-        "language": "Portugu\u00e9s"
-    },
-    {
-        "title": "UFC: Belal Muhammad vs Gabriel Bonfim",
-        "time": "19:00",
-        "category": "UFC",
-        "status": "en vivo",
-        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=paramount3",
-        "language": "English"
-    },
-    {
-        "title": "NHL: Vegas Golden Knights vs. Carolina Hurricanes",
-        "time": "19:00",
-        "category": "NHL",
-        "status": "en vivo",
-        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=espn4",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=disney5",
         "language": ""
     },
     {
-        "title": "Boxeo: Brandon Mosqueda vs. Isaac Aranda",
-        "time": "21:00",
-        "category": "BOX",
+        "title": "Primera Divis\u00f3n: Cerro vs Pe\u00f1arol",
+        "time": "13:00",
+        "category": "Other",
         "status": "en vivo",
-        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=espn",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=disney6",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Croacia vs Eslovenia",
+        "time": "13:45",
+        "category": "F\u00fatbol",
+        "status": "en vivo",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=disney7",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Grecia vs Italia",
+        "time": "14:00",
+        "category": "F\u00fatbol",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=disney8",
+        "language": ""
+    },
+    {
+        "title": "Copa de la Liga: Huachipato vs Colo-Colo",
+        "time": "14:00",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=max3",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Ecuador vs Guatemala",
+        "time": "15:00",
+        "category": "F\u00fatbol",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=eventos2",
+        "language": ""
+    },
+    {
+        "title": "Primera Divis\u00f3n: Defensor Sporting vs Boston River",
+        "time": "16:30",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=disney9",
+        "language": ""
+    },
+    {
+        "title": "Primera Divis\u00f3n: Deportes Limache vs Everton",
+        "time": "17:00",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=max4",
+        "language": ""
+    },
+    {
+        "title": "Primera Divis\u00f3n: O'Higgins vs Palestino",
+        "time": "17:00",
+        "category": "Other",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=max5",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "F\u00fatbol",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=caracoltv",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "F\u00fatbol",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=rcnco",
+        "language": ""
+    },
+    {
+        "title": "Amistoso: Colombia vs Jordania",
+        "time": "18:00",
+        "category": "F\u00fatbol",
+        "status": "pronto",
+        "link": "https:\/\/streamtp-x-y-z.ws\/global1.php?stream=espndeportes",
         "language": ""
     }
 ]
